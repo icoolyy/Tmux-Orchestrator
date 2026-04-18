@@ -1,0 +1,130 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776475135931,
+  "projectRoot": "/Users/bing/fancy/ai/Tmux-Orchestrator",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "Examples": {
+      "path": "Examples",
+      "purpose": "Example code",
+      "fileCount": 4,
+      "lastAccessed": 1776475135896,
+      "keyFiles": [
+        "Initiate Project Manager.png",
+        "Project Completed.png",
+        "Reading TMUX Windows and Sending Messages.png",
+        "Status reports.png"
+      ]
+    },
+    "__pycache__": {
+      "path": "__pycache__",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1776475135898,
+      "keyFiles": [
+        "claude_agent.cpython-311.pyc",
+        "github_integration.cpython-311.pyc",
+        "orchestrator_integration.cpython-311.pyc",
+        "project_startup.cpython-311.pyc",
+        "session_registry.cpython-311.pyc"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 16,
+      "lastAccessed": 1776476312922,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 5,
+      "lastAccessed": 1776476081383,
+      "type": "file"
+    },
+    {
+      "path": "schedule_with_note.sh",
+      "accessCount": 3,
+      "lastAccessed": 1776476318469,
+      "type": "file"
+    },
+    {
+      "path": ".claude/commands/pm-oversight.md",
+      "accessCount": 3,
+      "lastAccessed": 1776476331288,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 3,
+      "lastAccessed": 1776476335894,
+      "type": "directory"
+    },
+    {
+      "path": "LEARNINGS.md",
+      "accessCount": 2,
+      "lastAccessed": 1776475852483,
+      "type": "file"
+    },
+    {
+      "path": "send-claude-message.sh",
+      "accessCount": 2,
+      "lastAccessed": 1776476098429,
+      "type": "file"
+    },
+    {
+      "path": "tmux_utils.py",
+      "accessCount": 2,
+      "lastAccessed": 1776476135619,
+      "type": "file"
+    },
+    {
+      "path": "next_check_note.txt",
+      "accessCount": 1,
+      "lastAccessed": 1776476409187,
+      "type": "file"
+    },
+    {
+      "path": ".claude/settings.local.json",
+      "accessCount": 1,
+      "lastAccessed": 1776476454279,
+      "type": "file"
+    },
+    {
+      "path": ".claude/CLAUDE.md",
+      "accessCount": 1,
+      "lastAccessed": 1776476615461,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
